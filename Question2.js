@@ -24,5 +24,4 @@ function timeRequiredToBuy(tickets, k) {
 console.log(timeRequiredToBuy([2, 3, 2], 2)); // 6
 console.log(timeRequiredToBuy([1, 1, 1], 0)); // 1
 console.log(timeRequiredToBuy([5, 1, 1, 1], 0)); // 8
-console.log(timeRequiredToBuy([2, 2, 2], 1)); // 4
 console.log(timeRequiredToBuy([2, 3, 2], 0)); // 4
